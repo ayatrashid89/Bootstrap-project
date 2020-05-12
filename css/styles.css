@@ -74,7 +74,6 @@ button{
     .carousel-inner  img{
         height: 300px;
         width: 200px;
-        border: solid 3px rgb(14, 211, 73);
         margin-top: 20px;
         margin-bottom: 20px;
   }
