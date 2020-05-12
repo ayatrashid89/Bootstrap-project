@@ -1,3 +1,7 @@
-$('.carousel').carousel({
-    interval="false"
-  });
+$(function()  {
+  
+
+  
+  $(".carousel").carousel( { interval: false } );
+
+})
